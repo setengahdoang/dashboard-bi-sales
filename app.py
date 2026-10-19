@@ -299,7 +299,7 @@ st.markdown("""
 
 GOOGLE_SHEETS_URL = os.getenv(
     "GOOGLE_SHEETS_URL",
-    ""
+    "Disni Nanti Taro Link Spreadsheetnya"
 )
 
 
